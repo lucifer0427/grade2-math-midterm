@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Sparkles, Check, ArrowRight } from 'lucide-react';
+import { Volume2, Sparkles, Check } from 'lucide-react';
 import { g1Questions } from '../../data/questions';
 import { PlaceValueBoard } from '../../components/PlaceValueBoard';
 import { ReflectionModal } from '../../components/ReflectionModal';

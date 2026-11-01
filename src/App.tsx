@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Star, Award, Play, CheckCircle2, RotateCcw } from 'lucide-react';
+import { Star, Play, CheckCircle2, RotateCcw } from 'lucide-react';
 import { Navbar } from './components/Navbar';
 import { BadgeModal } from './components/BadgeModal';
 import { G1Game } from './games/g1-place-value/G1Game';

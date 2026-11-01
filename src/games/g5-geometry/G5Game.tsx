@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Check, ArrowRight, Compass, RotateCcw } from 'lucide-react';
+import { Volume2, Check, Compass } from 'lucide-react';
 import { g5Questions } from '../../data/questions';
 import { ReflectionModal } from '../../components/ReflectionModal';
 import { useGuidedScaffolding } from '../../hooks/useGuidedScaffolding';

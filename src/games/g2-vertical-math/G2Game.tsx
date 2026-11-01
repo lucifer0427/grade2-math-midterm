@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Hammer, Check, HelpCircle, ShieldAlert } from 'lucide-react';
+import { Volume2, Hammer, Check, ShieldAlert } from 'lucide-react';
 import { g2Questions } from '../../data/questions';
 import { ReflectionModal } from '../../components/ReflectionModal';
 import { useGuidedScaffolding } from '../../hooks/useGuidedScaffolding';

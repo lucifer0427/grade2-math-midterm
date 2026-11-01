@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Check, ArrowRight, ShoppingCart, Scale } from 'lucide-react';
+import { Volume2, ShoppingCart } from 'lucide-react';
 import { g4Questions } from '../../data/questions';
 import { ReflectionModal } from '../../components/ReflectionModal';
 import { useGuidedScaffolding } from '../../hooks/useGuidedScaffolding';
